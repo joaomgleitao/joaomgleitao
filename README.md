@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaomgleitao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=joaomgleitao&theme=dark" height="220" alt="streak graph" />
 </div>
 
 ###
