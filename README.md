@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm João from Portugal 🇵🇹<br><br>- 🎓 Informatics Engineering student @ UC  <br>- 📚 Learning software engineering & computer systems <br>- 🤖 Interested in AI & solving real-world problems with it  <br>- 🧠 Passionate about tech, science & all things engineering<br>- 🌱 Always curious, always experimenting</p>
+<p align="left">I'm João from Portugal 🇵🇹<br><br>- 🎓 Informatics Engineering student @ UC  <br>- 📚 Learning software engineering & computer systems <br>- 🤖 Interested in AI & solving real-world problems with it  <br>- 🧠 Passionate about tech, science & all things engineering</p>
 
 ###
 
